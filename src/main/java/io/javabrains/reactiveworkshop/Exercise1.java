@@ -7,13 +7,13 @@ public class Exercise1 {
         // Use StreamSources.intNumbersStream() and StreamSources.userStream()
 
         // Print all numbers in the intNumbersStream stream
-        StreamSources.intNumbersStream().forEach(System.out::println);
+        //StreamSources.intNumbersStream().forEach(System.out::println);
 
         // Print numbers from intNumbersStream that are less than 5
-        StreamSources.intNumbersStream().filter(number -> number < 5).forEach(System.out::println);
+        //StreamSources.intNumbersStream().filter(number -> number < 5).forEach(System.out::println);
 
         // Print the second and third numbers in intNumbersStream that's greater than 5
-        StreamSources.intNumbersStream().filter(number -> number > 5).skip(1).limit(3).forEach(System.out::println);
+        StreamSources.intNumbersStream().filter(number -> number > 5).skip(1).limit(2).forEach(System.out::println);
 
         //  Print the first number in intNumbersStream that's greater than 5.
         //  If nothing is found, print -1
