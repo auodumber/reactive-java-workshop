@@ -15,7 +15,7 @@ public class Exercise6 {
 
         // Get the value from unresponsiveFlux into a String list but give up after 5 seconds
         // Come back and do this when you've learnt about operators!
-        // TODO: Write code here
+        ReactiveSources.unresponsiveFlux().timeout(Duration.ofSeconds(5)).subscribe();
 
         System.out.println("Press a key to end");
         System.in.read();
