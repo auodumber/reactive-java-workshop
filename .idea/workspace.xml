@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/reactive-java-workshop/src",
+    "last_opened_file_path": "D:/springboot-reactor",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -193,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736847185118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercise 6 completed">
+      <option name="closed" value="true" />
+      <created>1736847443448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736847443448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +218,8 @@
     <MESSAGE value="Exercise 1" />
     <MESSAGE value="Stream basics 2 question corrected" />
     <MESSAGE value="All exercise completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="All exercise completed" />
+    <MESSAGE value="exercise 6 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 6 completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
